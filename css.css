@@ -10,3 +10,9 @@ tr, td
 	width: 120px;
 	text-align: center;
 }
+
+table
+{
+	margin-left: 10px;
+	margin-top: 10px;
+}
